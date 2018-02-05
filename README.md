@@ -62,3 +62,8 @@ Hello there! This is my take on a (easy) ramen soup with chasu. Please contribut
 ### 🥄 Mix
 
 * Serve with meat, negi and sesame as shown on image.
+
+## Credits
+
+* <b>Mads Lee Jensen</b> 
+<br />Creator of the original recipe
