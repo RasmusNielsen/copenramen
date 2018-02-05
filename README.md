@@ -9,6 +9,8 @@ Hello there! This is my take on a (easy) ramen soup with chasu. Please contribut
 
 ## Ingrediens
 
+* Misopaste
+* Chilipaste
 * Garlic
 * Negi / Spring Onion
 * Eggs
@@ -54,7 +56,7 @@ Hello there! This is my take on a (easy) ramen soup with chasu. Please contribut
 
 ### 🥘 Miso
 
-* Add misopaste to the chicken stock
+* Add Misopaste to the chicken stock
 * Add Chilipaste
 * Add Chili oil (La-Yu) to taste.
 * Add Chili flakes (Shichimi)
